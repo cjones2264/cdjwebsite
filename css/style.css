@@ -1,0 +1,30 @@
+h2  {
+  text-align: center;
+  text-decoration: overline;
+}
+
+.navbar-inverse {
+ padding-top: 0px;
+  padding-bottom: 0px;
+
+}
+
+body { padding-top: 0px;
+padding-bottom: 0px;
+ }
+
+h1 {
+
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+  text-decoration:none;
+
+}
+
+footer {
+padding-top: 20px;
+  text-align: center;
+}
